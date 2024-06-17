@@ -6,6 +6,8 @@ The database needs to have fields for:
 - The **MIME type**, e.g. *image/png*, or *image/jpeg* - varchar
 - The **image data** - BLOB
 
+![Database Structure](images/things-table.png)
+
 ## Retrieving Images
 
 **DON'T**
